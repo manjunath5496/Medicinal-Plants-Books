@@ -165,7 +165,7 @@
  55. 36 Healing Herbs: The World's Best Medicinal Plants </br>
                 <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med55.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
                 
- 56. The Medicinal Plants of the Philippines </br>
+ 56. Healing Herbs of Paradise </br>
                 <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med54.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                  
                 
  57. The Book of Herbs </br>
