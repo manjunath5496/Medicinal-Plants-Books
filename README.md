@@ -156,11 +156,32 @@
  52. New Aspects in Medicinal Plants and Pharmacognosy </br>
                 <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med52.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                  
                 
+ 53. The Complete Herbal </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med53.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
                 
+ 54. The Medicinal Plants of the Philippines </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med54.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                  
+                               
+ 55. 36 Healing Herbs: The World's Best Medicinal Plants </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med55.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
                 
+ 56. The Medicinal Plants of the Philippines </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med54.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                  
                 
+ 57. The Book of Herbs </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med57.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
                 
+ 58. Pocket Guide to Herbal Medicine </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med58.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                   
                 
+ 59. Medical botany of the genus Echinacea </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med59.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
+                
+ 60. Picturing the Book of Nature </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med60.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
+                
+ 61. Medical Botany </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med61.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
                 
                 
                 
