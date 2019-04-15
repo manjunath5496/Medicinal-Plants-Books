@@ -150,35 +150,3 @@
  50. New Light on Dark Stars: Red Dwarfs, Low-Mass Stars, Brown Dwarfs </br>
                 <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast50.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                         
- 51. Our Planet </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast51.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                   
-                
- 52. The Sun Is Also a Star </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast52.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
-                          
- 53. Thermodynamics of the Earth and Planets </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast53.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                   
-                
- 54. Orbits and Interiors of Planets </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast54.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>             
-             
- 55. Very Low-Mass Stars and Brown Dwarfs </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast55.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>              
-             
- 56. The Cosmic Connection </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast56.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>             
-             
- 57. Astronomy with an Opera-glass </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast57.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
-                
- 58. The Demon-Haunted World </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast58.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
-             
- 59. Physics of Comets </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast59.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
-                
- 60. The Birth and Death of the Sun </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast60.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
-             
- 61. The Life and Death of Stars </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast61.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
