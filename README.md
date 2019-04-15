@@ -147,8 +147,8 @@
  49. Mosby's Handbook of Herbs and Natural Supplements </br>
                 <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med49.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                   
                 
- 50. New Light on Dark Stars: Red Dwarfs, Low-Mass Stars, Brown Dwarfs </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast50.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+ 50. A Guide to Medicinal Plants of Appalachia </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med50.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
  51. Traditional Medicines for Modern Times: Antidiabetic Plants </br>
                 <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med51.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
