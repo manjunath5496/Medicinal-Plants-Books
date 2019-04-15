@@ -66,29 +66,29 @@
 22. Medicinal Plants: Utilisation and Conservation </br>
                 <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med22.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
                 
-23. Astronomy: A Physical Perspective </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast23.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
+23. Medicinal Plants of the Asia-Pacific: Drugs for the Future? </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med23.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
                 
-24. Cleomedes' Lectures on Astronomy: A Translation of The Heavens </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast24.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
+24. Medicinal Plants and Malaria Applications, Trends, and Prospects </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med24.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
                 
-25. Theory and Problems of Astronomy </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
+25. Medicinal Plants of Nepal </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                 
-26. Solar System Astrophysics </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast26.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                       
+26. Plant Medicines for Clinical Trial </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med26.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                       
                 
-27. Astronomy at the Frontiers of Science </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast27.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
+27. The Power Medicinal of Plants!!! </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med27.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
                 
-28. Advances in Astronomy: From the Big Bang in the Solar System </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast28.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
+28. Evaluation Of The Antifungal Properties Of Twelve Medicinal Plants And Isolation Of Active Compounds From Nepenthes Gracilis </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med28.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                 
-29. 1,001 Celestial Wonders to See Before You Die: The Best Sky Objects for Star Gazers </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast29.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                       
+29. Database on Medicinal Plants </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med29.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                       
                                
-30. From Eudoxus to Einstein: A History of Mathematical Astronomy </br>
-                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast30.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                  
+30. A Pharmacological Study Of Some Nigerian Medicinal Plants </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/med30.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                  
                 
 31. Handbook on Radio Astronomy </br>
                 <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast31.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                       
