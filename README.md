@@ -37,7 +37,7 @@
                 <a href="https://github.com/manjunath5496/Medicinal-Plants-Books/blob/master/med12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
                               
 13. Herbal Drugs: Ethnomedicine to Modern Medicine </br>
-                <a href="https://github.com/manjunath5496/Medicinal-Plants-Books/blob/master/med13.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>              
+                <a href="https://github.com/manjunath5496/Medicinal-Plants-Books/blob/master/med13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>              
                                
 14. Extraction Technologies for Medicinal and Aromatic Plants</br>
                 <a href="https://github.com/manjunath5496/Medicinal-Plants-Books/blob/master/med14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
